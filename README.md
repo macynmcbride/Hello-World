@@ -5,7 +5,7 @@
 The title of this project is ***Hello World***!
 
 ## Description
-This is just testing my skills to see if I know how to use this platform.
+This is just **testing my skills** to see if I know how to use this platform.
 
 ## How to Run Program
 To run the program you need to follow these steps:
